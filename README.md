@@ -4,6 +4,7 @@
 
 #### Not every wallet is successful. Some fail to woo customers and the reasons are not too hidden. Finding cons and the entry barriers is equally important as finding pros for the venture. The perfection of an app comes with an astonishing design and engaging UX.
 
-![Wallet App](images\1.jpg)
+![Wallet App](https://github.com/snehakumari1112/wallet_app_ui/assets/99785784/8bfcf8da-f1d8-495c-80ed-3c156094e548)
 ![Wallet App](images\2.jpg)
 ![Wallet App](images\3.jpg)
+
