@@ -1,16 +1,9 @@
-# wallet_app_ui
+## _**Wallet UI App**_
 
-A new Flutter project.
+#### There are many eWallet app designers in the market, but finding the best website design company needs proper research. eWallet App design solutions found to be cumbersome for many designers, whereas experts find it interesting. There are many Mobile Wallet apps in the market and many of the amateur organizations copy the app features, make some relevant tweaks and launch the app. But if you think from a business perspective, there are many reasons, where the eWallet app needs to be different from other competitors.
 
-## Getting Started
+#### Not every wallet is successful. Some fail to woo customers and the reasons are not too hidden. Finding cons and the entry barriers is equally important as finding pros for the venture. The perfection of an app comes with an astonishing design and engaging UX.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Wallet App](images\1.jpg)
+![Wallet App](images\2.jpg)
+![Wallet App](images\3.jpg)
